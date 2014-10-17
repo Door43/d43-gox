@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gox:home|Door43 (gox)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gox|d43-gox repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gox/archive/master.zip|d43-gox.zip]]
+
+**Recent Changes**
+{{changes>ns = gox}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gox|Ethnologue data]]
+
